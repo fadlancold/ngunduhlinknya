@@ -1,0 +1,2 @@
+# ngunduhlinknya
+buat safe link
